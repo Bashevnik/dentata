@@ -1,0 +1,11 @@
+# Photo credits (Pexels)
+- hero/hero.jpg — https://kaboompics.com/
+- rooms/implant.jpg — Tima Miroshnichenko
+- rooms/braces.jpg — cottonbro studio
+- rooms/hygiene.jpg — https://kaboompics.com/
+- rooms/therapy.jpg — Ông Ngọc Dư
+- rooms/kids.jpg — . MM Dental .
+- rooms/whitening.jpg — Tima Miroshnichenko
+- infra/interior.jpg — Marc Chemla
+- infra/detail.jpg — Miriam Alonso
+- infra/doc.jpg — https://kaboompics.com/
